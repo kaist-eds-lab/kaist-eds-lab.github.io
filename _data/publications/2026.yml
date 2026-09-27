@@ -3,20 +3,20 @@ items:
   - code: C18
     type: conference
     title: "Beyond Average Flatness: Domain-wise Flatness for Domain Generalization"
-    authors: Seungjun Choi and Heeyoung Kim
+    authors: S. Choi and H. Kim
     citation: "Conference on Neural Information Processing Systems (NeurIPS),
       Sydney, Australia, December 2026. "
     venue: NeurIPS
   - code: J66
     type: journal
     title: Cluster-Based Classification for Mixed-Type Data Under Data Scarcity
-    authors: Woojin Doo, Jeonghyun Choi, and Heeyoung Kim
+    authors: W. Doo, J. Choi, and H. Kim
     citation: Statistical Analysis and Data Mining, 19(4), e70112.
     venue: Statistical Analysis and Data Mining
   - code: J65
     type: journal
     title: "DAMEL: Dual-Axis Multi-Expert Learning for Class-Imbalanced Learning"
-    authors: Hyuck Lee, Taemin Park, and Heeyoung Kim
+    authors: H. Lee, T. Park, and H. Kim
     citation: "Knowledge-Based Systems, accepted. "
     venue: Knowledge-Based Systems
   - code: C17
