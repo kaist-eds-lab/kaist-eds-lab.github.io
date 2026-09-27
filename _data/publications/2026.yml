@@ -49,3 +49,9 @@ items:
     authors: Hyuck Lee, Taemin Park, and Heeyoung Kim
     citation: "Knowledge-Based Systems, accepted. "
     venue: Knowledge-Based Systems
+  - code: J66
+    type: journal
+    title: Cluster-Based Classification for Mixed-Type Data Under Data Scarcity
+    authors: Woojin Doo, Jeonghyun Choi, and Heeyoung Kim
+    citation: Statistical Analysis and Data Mining, 19(4), e70112.
+    venue: Statistical Analysis and Data Mining
