@@ -55,3 +55,10 @@ items:
     authors: Woojin Doo, Jeonghyun Choi, and Heeyoung Kim
     citation: Statistical Analysis and Data Mining, 19(4), e70112.
     venue: Statistical Analysis and Data Mining
+  - code: C18
+    type: conference
+    title: "Beyond Average Flatness: Domain-wise Flatness for Domain Generalization"
+    authors: Seungjun Choi and Heeyoung Kim
+    citation: "Conference on Neural Information Processing Systems (NeurIPS),
+      Sydney, Australia, December 2026. "
+    venue: NeurIPS
